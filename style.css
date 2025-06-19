@@ -1,7 +1,7 @@
 
   #carouselExample img {
-    height: 400px;     /* Set the height you want */
-    object-fit: cover; /* Keeps aspect ratio and fills the container */
+    height: 400px;    
+    object-fit: cover; 
   }
  .card-img-top {
     height: 250px;
